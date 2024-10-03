@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232326417785",
+    "project_id": "vegetables-1bbbe",
+    "storage_bucket": "vegetables-1bbbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232326417785:android:d7a9083b6334561e77f3a8",
+        "android_client_info": {
+          "package_name": "com.farmers.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2VpSweS9ke0k7LNFfPwlBkP3SQF0v0XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
